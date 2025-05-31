@@ -1,0 +1,12 @@
+body {
+    display: block;
+}
+
+header {
+    display: flex;
+}
+
+footer {
+    display: flex;
+}
+
